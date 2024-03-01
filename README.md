@@ -1,4 +1,4 @@
-# Genre Classification of Songs from Audio Data
+# Genre Classification Of Songs From Audio Data
 
 ## Overview
 Our project delves into the realm of music analytics, focusing on classifying songs into genres based on their audio features. Leveraging a dataset sourced from The Echo Nest, we analyze various audio metrics including acousticness, danceability, and energy. Through this endeavor, we showcase the comprehensive process of employing machine learning techniques for song classification, emphasizing the critical role of dataset balancing in enhancing model performance.
